@@ -1,5 +1,5 @@
 ---
-title: Alexandra Ruiz
+title: Jonathan Seyfried
 layout: left-profile
 date: 2024-12-02
 ---
