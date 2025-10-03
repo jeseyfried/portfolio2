@@ -5,7 +5,7 @@ date: 2024-12-02
 ---
 
 
-# Alexandra Ruiz
+## Jonathan Seyfried
 
 I am a History PhD Candidate focusing on creating more engaging history through emerging technology. This site is built using GitHub Pages, a free platform for web hosting that gives me full control over my content, files, and style.
 
