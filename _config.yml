@@ -1,4 +1,5 @@
 baseurl: /portfolio2/
+repository: jeseyfried/portfolio2
 defaults:
   - scope:
       path: ""

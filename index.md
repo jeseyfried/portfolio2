@@ -7,7 +7,7 @@ date: 2024-12-02
 
 ## Jonathan Seyfried
 
-This is a new sentence.
+This is another new sentence.
 
 {% include figure.html
   class="right"
