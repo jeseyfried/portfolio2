@@ -10,6 +10,15 @@ date: 2024-12-02
 This is another new sentence.
 
 
+{% include figure.html
+  class="center"
+  width="30%"
+  caption="What a nice view"
+  image-path="/assets/images/backgrounds/great-lecture.jpg"
+%}
+
+This is yet another sentence.
+
 <iframe
   src="{{ '/assets/pdfs/cats-affective-history.pdf' | relative_url }}"
   width="100%"
