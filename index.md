@@ -9,6 +9,18 @@ date: 2024-12-02
 
 This is another new sentence.
 
+
+<iframe
+  src="{{ '/assets/pdfs/cats-affective-history.pdf' | relative_url }}"
+  width="100%"
+  height="800"
+  style="border:1px solid #ccc;"
+  title="Cats PDF">
+</iframe>
+
+
+
+
 {% include figure.html
   class="right"
   width="60%"
