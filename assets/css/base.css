@@ -16,7 +16,7 @@ PAGE SETUP
   --pine: #394e42;         /* Deep pine green */
   --lichen: #c3d0b7;       /* Soft lichen green */
   --snow: #fefffe;         /* Pure snow white */
-  --granite: #2c2c2c;      /* Charcoal granite */
+  --granite: #3c3b3b;      /* Charcoal granite */
   --fog: #ededed;          /* Light gray-green */
   --cedar: #7d8471;        /* Muted cedar green */
 
@@ -26,7 +26,7 @@ PAGE SETUP
   --text-muted: #7a7a7a;
   --text-link: var(--pine);
 
-  --bg-primary: var(--snow);
+  --bg-primary: var(--lichen);
   --bg-secondary: var(--fog);
   
   --accent: var(--pine);
