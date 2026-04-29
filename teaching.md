@@ -8,7 +8,7 @@ summary: I view lectures as opportunities to model expert thinking and clarify c
 thumbnail: assets/images/great-lecture.jpg
 ---
 
-## How I Approach Teaching
+## How I Teach
 
 I believe that the lecture remains one of the most powerful tools for communicating knowledge. A well-crafted lecture allows an instructor to synthesize complex ideas, trace intellectual lineages, and model expert thinking in ways that students might struggle to discover on their own. By guiding learners through a structured, coherent narrative, a lecture can create clarity and momentum, sparking curiosity while ensuring that foundational knowledge is presented accurately and efficiently. The lecture hall is also a space where students can witness passion and intellectual rigor in real time — an opportunity to observe not just what scholars know, but how they think.
 
