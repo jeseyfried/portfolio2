@@ -16,7 +16,7 @@ I believe that the lecture remains one of the most powerful tools for communicat
   class="right"
   width="60%"
   caption="What a nice view"
-  image-path="/assets/images/great-lecture.jpg"
+  image-path="/assets/images/other-image.jpg"
 %}
 
 While I recognize the appeal of "student-centered" learning approaches, I am cautious of pedagogies that overly decentralize the classroom. Too much emphasis on group work or self-discovery risks leaving students without the necessary scaffolding to interpret what they encounter. Many students enter a course without the background or confidence to teach themselves complex material, and asking them to do so can create confusion rather than empowerment. My goal is to provide a strong intellectual framework through lecture, then invite students to engage critically with that framework through discussion, writing, and application — ensuring that their learning is built on a foundation of clarity, not guesswork.
